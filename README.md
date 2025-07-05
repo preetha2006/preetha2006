@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetha2006&label=Profile%20views&color=0e75b6&style=flat" alt="preetha2006" /> </p>
 
-- 🔭 I’m currently working on **EVA: Smart Safety Pendant for Women**
-
-- 👯 I’m looking to collaborate on **IntelliBin: Smart Self-Sealing & Compressing Trash Solution**
-
-- 🤝 I’m looking for help with **Brain-Controlled Assistive Device for Locked-In Syndrome**
-
 - 📫 How to reach me **preethamurugesan2021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
