@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetha</h1>
-<h3 align="center">A passionate AI and Data Science student from India exploring innovative solutions through technology.</h3>
+<h3 align="center">A passionate AI and Data Science student exploring innovative solutions through technology.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=preetha2006&label=Profile%20views&color=0e75b6&style=flat" alt="preetha2006" />
