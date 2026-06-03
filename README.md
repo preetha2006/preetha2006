@@ -1,137 +1,92 @@
-<h1 align="center">Hi 👋, I'm Preetha</h1>
-<h3 align="center">A passionate AI and Data Science student exploring innovative solutions through technology.</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preetha2006&label=Profile%20views&color=0e75b6&style=flat" alt="preetha2006" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=120&section=header&text=Preetha%20M&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=85&descSize=16" width="100%"/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethamurugesan2021@gmail.com)
+[![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Profile Views](https://komarev.com/ghpvc/?username=preetha2006&style=for-the-badge&color=1F4E79)](https://github.com/preetha2006)
 
-### ✨ About Me
-- 🎓 I'm currently pursuing **AI & Data Science**
-- 💡 I love building creative projects that solve real-world problems
-- 🧠 Currently exploring: Computer Vision & NLP
-- 🌱 Learning: Deep Learning frameworks and MLOps
-- 💬 Ask me about anything AI-related!
+</div>
 
 ---
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:preethamurugesan2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <!-- Add more links if you have -->
-</p>
+## About Me
+
+B.Tech AI & Data Science student at Karpagam Institute of Technology (2023–2027), building production-ready AI systems and presenting research at international conferences.
+
+- 📄 **Presented paper** at ISTE Sponsored ICLTSET'24 International Conference — EEG-based BCI for Locked-In Syndrome
+- 🏆 **Competed at IIT Delhi** — Eightfold AI Agent Challenge 2024
+- ☁️ **AWS Certified** Cloud Practitioner
+- 🔬 Currently exploring: LLM applications, MLOps, and Agentic AI
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <!-- Angular -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- Jenkins -->
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <!-- Scikit-Learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
+## Featured Projects
 
+| Project | Description | Stack | Repo |
+|--------|-------------|-------|------|
+| 🚚 **FreightMind** | XGBoost freight carrier selection — R² 0.954, SHAP explainability, negotiation signal engine, India freight map | Python · XGBoost · SHAP · FastAPI · React | [→](https://github.com/preetha2006/freightmind) |
+| 🏥 **Medivue AI** | Multilingual medical report analyzer — LLaMA 3.3, Tamil & English, OCR pipeline, voice assistant | Python · Groq · FastAPI · Tesseract · React | [→](https://github.com/preetha2006) |
+| 🔍 **TraceForge** | Deepfake forensics — EfficientNet-B4, Grad-CAM, 10 forensic analyzers, SHA-256 evidence reports | PyTorch · OpenCV · FastAPI · Docker | [→](https://github.com/preetha2006) |
+| ⚡ **Wattrix** | Industrial energy anomaly detection — Isolation Forest, Autoencoders, real-time dashboard | TensorFlow · Pandas · Node.js · React | [→](https://github.com/preetha2006) |
+| 🛣️ **LumiRoute** | AI adaptive highway lighting — YOLOv8 vehicle detection, traffic density, zonal brightness control | YOLOv8 · OpenCV · PyTorch · FastAPI | [→](https://github.com/preetha2006) |
+| 💰 **PensionIQ** | NPS retirement forecasting — Monte Carlo simulation, inflation-adjusted corpus, scenario modeling | Python · FastAPI · React · Chart.js | [→](https://github.com/preetha2006) |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetha2006&show_icons=true&theme=default" alt="preetha2006" />
-</p>
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetha2006&" alt="preetha2006 streak stats"/>
-</p>
+**ML & AI**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=preetha2006&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend & Visualization**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preetha2006&theme=flat&no-frame=true&column=7" alt="GitHub Trophies"/>
-</p>
+## Conference Paper
+
+**Brain-Controlled Assistive Device for Locked-In Syndrome**
+*ISTE Sponsored ICLTSET'24 International Conference · Karpagam Institute of Technology · April 2024*
+
+Presented research on EEG preprocessing (bandpass filtering, ICA artifact removal), feature extraction, and ML-based neural pattern classification to enable text and speech communication for Locked-In Syndrome patients.
 
 ---
 
-### ✨ Fun Fact
-🌸 I love learning new technologies and combining AI with creative applications.
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetha2006&show_icons=true&theme=default&hide_border=true&title_color=1F4E79&icon_color=1F4E79)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=preetha2006&layout=compact&theme=default&hide_border=true&title_color=1F4E79)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=80&section=footer" width="100%"/>
+
+</div>
