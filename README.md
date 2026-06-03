@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=120&section=header&text=Preetha%20M&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=85&descSize=16" width="100%"/>
+# Preetha M
+### AI & Data Science Engineer · Conference Paper Presenter · Hackathon Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethamurugesan2021@gmail.com)
@@ -13,7 +14,7 @@
 
 ## About Me
 
-B.Tech AI & Data Science student at Karpagam Institute of Technology (2023–2027), building production-ready AI systems and presenting research at international conferences.
+B.Tech AI & Data Science student at Karpagam Institute of Technology (2023–2027), building full-stack AI systems and presenting research at international conferences.
 
 - 📄 **Presented paper** at ISTE Sponsored ICLTSET'24 International Conference — EEG-based BCI for Locked-In Syndrome
 - 🏆 **Competed at IIT Delhi** — Eightfold AI Agent Challenge 2024
@@ -84,9 +85,8 @@ Presented research on EEG preprocessing (bandpass filtering, ICA artifact remova
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetha2006&show_icons=true&theme=default&hide_border=true&title_color=1F4E79&icon_color=1F4E79)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=preetha2006&layout=compact&theme=default&hide_border=true&title_color=1F4E79)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=80&section=footer" width="100%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetha2006&show_icons=true&hide_border=true&title_color=1F4E79&icon_color=1F4E79&bg_color=00000000)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=preetha2006&layout=compact&hide_border=true&title_color=1F4E79&bg_color=00000000)
 
 </div>
