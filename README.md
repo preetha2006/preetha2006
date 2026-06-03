@@ -16,8 +16,8 @@
 
 B.Tech AI & Data Science student at Karpagam Institute of Technology (2023–2027), building production-ready AI systems and presenting research at international conferences.
 
-- 📄 **Presented paper** at ISTE Sponsored ICLTSET'24 International Conference — EEG-based BCI for Locked-In Syndrome
-- 🏆 **Competed at IIT Delhi** — Eightfold AI Agent Challenge 2024
+- 📄 **Presented paper** at ISTE Sponsored ICLTSET'24 International Conference: EEG-based BCI for Locked-In Syndrome
+- 🏆 **Competed at IIT Delhi**: Eightfold AI Agent Challenge 2024
 - ☁️ **AWS Certified** Cloud Practitioner
 - 🔬 Currently exploring: LLM applications, MLOps, and Agentic AI
 
