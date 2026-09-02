@@ -19,7 +19,7 @@ B.Tech AI & Data Science student at Karpagam Institute of Technology (2023–202
 - 📄 **Presented paper** at ISTE Sponsored ICLTSET'24 International Conference: EEG-based BCI for Locked-In Syndrome
 - 🏆 **Competed at IIT Delhi**: Eightfold AI Agent Challenge 2024
 - ☁️ **AWS Certified** Cloud Practitioner
-- 🔬 Currently exploring: LLM applications, MLOps, and Agentic AI
+- 🔬 Currently exploring: Exploring: Cognitive Intelligence, AGI, Neurosymbolic AI, Embodied Intelligence & Continual Learning
 
 ---
 
@@ -28,11 +28,11 @@ B.Tech AI & Data Science student at Karpagam Institute of Technology (2023–202
 | Project | Description | Stack | Repo |
 |--------|-------------|-------|------|
 | 🚚 **FreightMind** | XGBoost freight carrier selection — R² 0.954, SHAP explainability, negotiation signal engine, India freight map | Python · XGBoost · SHAP · FastAPI · React | [→](https://github.com/preetha2006/freightmind) |
-| 🏥 **Medivue AI** | Multilingual medical report analyzer — LLaMA 3.3, Tamil & English, OCR pipeline, voice assistant | Python · Groq · FastAPI · Tesseract · React | [→](https://github.com/preetha2006) |
-| 🔍 **TraceForge** | Deepfake forensics — EfficientNet-B4, Grad-CAM, 10 forensic analyzers, SHA-256 evidence reports | PyTorch · OpenCV · FastAPI · Docker | [→](https://github.com/preetha2006) |
-| ⚡ **Wattrix** | Industrial energy anomaly detection — Isolation Forest, Autoencoders, real-time dashboard | TensorFlow · Pandas · Node.js · React | [→](https://github.com/preetha2006) |
-| 🛣️ **LumiRoute** | AI adaptive highway lighting — YOLOv8 vehicle detection, traffic density, zonal brightness control | YOLOv8 · OpenCV · PyTorch · FastAPI | [→](https://github.com/preetha2006) |
-| 💰 **PensionIQ** | NPS retirement forecasting — Monte Carlo simulation, inflation-adjusted corpus, scenario modeling | Python · FastAPI · React · Chart.js | [→](https://github.com/preetha2006) |
+| 🏥 **Medivue AI** | Multilingual medical report analyzer — LLaMA 3.3, Tamil & English, OCR pipeline, voice assistant | Python · Groq · FastAPI · Tesseract · React | [→](https://github.com/preetha2006/medivue_ai) |
+| 🔍 **TraceForge** | Deepfake forensics — EfficientNet-B4, Grad-CAM, 10 forensic analyzers, SHA-256 evidence reports | PyTorch · OpenCV · FastAPI · Docker | [→](https://github.com/preetha2006/traceforge) |
+| ⚡ **Wattrix** | Industrial energy anomaly detection — Isolation Forest, Autoencoders, real-time dashboard | TensorFlow · Pandas · Node.js · React | [→](https://github.com/preetha2006/Wattrix) |
+| 🛣️ **LumiRoute** | AI adaptive highway lighting — YOLOv8 vehicle detection, traffic density, zonal brightness control | YOLOv8 · OpenCV · PyTorch · FastAPI | [→](https://github.com/preetha2006/lumiroute) |
+| 💳 ReconIQ | AI-powered financial reconciliation with automated matching, anomaly detection, multi-agent workflows, and audit trails | Python · FastAPI · Streamlit · LangGraph · Scikit-Learn | [→](https://github.com/preetha2006/reconiq) |
 
 ---
 
